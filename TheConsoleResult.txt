@@ -1,0 +1,30 @@
+The battery is inserted.
+Smartfone info:
+Smartphone [os=iOS, phoneModel=Apple iPhone 6 Plus, year=2016]
+Battery info:
+Battery [code=Apple 616-0772, capacity=2915, charging=800]
+The charging level is: 27.44 %
+The battery is inserted.
+Smartfone info:
+Smartphone [os=iOS, phoneModel=Apple iPhone 7, year=2017]
+Battery info:
+Battery [code=Apple 812-6666, capacity=3000, charging=100]
+The charging level is: 3.33 %
+
+*****Nested class*****
+
+I have taken the charger device!
+I am charging any compatible device.
+The device of Mr X is charging.
+The smartphone iPhone 6 Plus is charging.
+
+*****Anonymous class*****
+
+The sorting by model
+Smartphone [os=iOS, phoneModel=Apple iPhone 6 Plus, year=2016]
+Smartphone [os=iOS, phoneModel=Apple iPhone 7, year=2017]
+Smartphone [os=Android, phoneModel=Samsung Galaxy A5, year=2016]
+The sorting by year
+Smartphone [os=iOS, phoneModel=Apple iPhone 6 Plus, year=2016]
+Smartphone [os=Android, phoneModel=Samsung Galaxy A5, year=2016]
+Smartphone [os=iOS, phoneModel=Apple iPhone 7, year=2017]
